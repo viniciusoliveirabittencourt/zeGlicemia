@@ -1,1 +1,3 @@
-<h1>Primeiro Commit</h1>
+# zeGligose
+
+# A simple website to assistant people to view and monitor their blood glucose
