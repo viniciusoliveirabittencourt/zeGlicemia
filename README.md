@@ -27,42 +27,42 @@ I'm a diabetic, so I know how hard can be, you have a total idea about how good 
 ### Stacks
 
 - **App**
-  -**docker-compose**
-  -**GIT**
-  -**Node.js**
-    -**FrontEnd**
-      -**docker**
-      -**React.tsx**
-        -**React Hooks**
-      -**React Router**
-      -**React Redux**
-      -**Bootstrap**
-      -**CSS3**
+  - **docker-compose**
+  - **GIT**
+  - **Node.js**
+    - **FrontEnd**
+      - **docker**
+      - **React.tsx**
+        - **React Hooks**
+      - **React Router**
+      - **React Redux**
+      - **Bootstrap**
+      - **CSS3**
       **in progress...**
-    -**BackEnd**
-      -**docker**
-      -**Express**
-      -**JWT**
-      -**Sequelize**
+    - **BackEnd**
+      - **docker**
+      - **Express**
+      - **JWT**
+      - **Sequelize**
       **in progress...**
-    -**Database**
-      -**postgreSQL**
-        -**Heroku Postgres**
+    - **Database**
+      - **postgreSQL**
+        - **Heroku Postgres**
       **in progress...**
-  -**tests**
-    -**E2E**
-      -**Mocha**
-      -**chai**
-      -**sinon**
-    -**FrontEnd**
-      -**Mocha**
-      -**chai**
-      -**sinon**
-    -**BackEnd**
-      -**Mocha**
-      -**chai**
-      -**sinon**
-  -**CI/CD**
-    -**EsLint**
-    -**Prettier**
-    -**Actions GitHub**
+  - **tests**
+    - **E2E**
+      - **Mocha**
+      - **chai**
+      - **sinon**
+    - **FrontEnd**
+      - **Mocha**
+      - **chai**
+      - **sinon**
+    - **BackEnd**
+      - **Mocha**
+      - **chai**
+      - **sinon**
+  - **CI/CD**
+    - **EsLint**
+    - **Prettier**
+    - **Actions GitHub**
