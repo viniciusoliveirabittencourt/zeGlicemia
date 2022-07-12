@@ -38,17 +38,17 @@ I'm a diabetic, so I know how hard can be, you have a total idea about how good 
       - **React Redux**
       - **Bootstrap**
       - **CSS3**
-      **in progress...**
+      - **in progress...**
     - **BackEnd**
       - **docker**
       - **Express**
       - **JWT**
       - **Sequelize**
-      **in progress...**
+      - **in progress...**
     - **Database**
       - **postgreSQL**
         - **Heroku Postgres**
-      **in progress...**
+      - **in progress...**
   - **tests**
     - **E2E**
       - **Mocha**
