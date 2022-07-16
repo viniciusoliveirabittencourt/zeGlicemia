@@ -34,8 +34,8 @@ I'm a diabetic, so I know how hard can be, you have a total idea about how good 
       - **docker**
       - **React.tsx**
         - **React Hooks**
-      - **React Router**
-      - **React Redux**
+        - **React Router**
+        - **React Redux**
       - **Bootstrap**
       - **CSS3**
       - **in progress...**
@@ -66,3 +66,16 @@ I'm a diabetic, so I know how hard can be, you have a total idea about how good 
     - **EsLint**
     - **Prettier**
     - **Actions GitHub**
+  - **Deployment**
+    - **FrontEnd**
+      - **Vercel**
+    - **BackEnd**
+      - **Heroku**
+    - **Database**
+      - **Heroku**
+
+## Explain Stacks:
+
+To geral app, we are using docker-compose to controll all containers below, GIT to have a best version the code when we can have branchs to front and back, we will use github to CI/CD controll, and the deployment are in Heroku, to back and database, and vercel to front. To tests, I decided have two diferents strategys, tests E2E, to have a geral behavior of the application, and unit tests to have totaly sure I know exactly when it's broken.
+
+All app it will runing with node, and the individual aplication will have their own containers. On front, I will use React, to have a better control of the DOM, and have must control in internal staments. I will use some of the most popular React librarys to help me to construct this application, React Router DOM, to a better control route control and React Redux to have a shared statment to all components. Bootstrap to give facility to contruct a beauty application, and CSS3 to change some bootstrap styles. To back, I will use a Node server, with express to build a web application more easily, JWT to authenticate how are accesing our application, and a ORM called Sequelize, to easily the process of manutention the code.
