@@ -97,11 +97,11 @@ To run this application on your machine, you need to check your **environment de
 # This command will run the necessary dependencies to run the tests
 ~/zeGlicemia$ npm install
 
-# Now, enter in the backend directory, to run all commands necessary to run backend
+# Now, enter in the backend directory, to run the command to install all necessary dependencies to run backend
 ~/zeGlicemia$ cd backend
 ~/zeGlicemia/backend$ npm install
 
-# Now, enter in the frontend directory, to run all commands necessary to run frontend
+# Now, enter in the backend directory, to run the command to install all necessary dependencies to run backend
 ~/zeGlicemia$ cd frontend
 ~/zeGlicemia/frontend$ npm install
 
